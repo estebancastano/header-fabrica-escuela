@@ -1,4 +1,3 @@
-import image from './assets/user-icon.png'
 import Image from 'next/image'
 import { FaUserCircle } from 'react-icons/fa';
 const Header = () => {
